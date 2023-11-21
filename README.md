@@ -1,0 +1,2 @@
+# footballScraper
+Python Selenium for scraping goal scores in football matches between two teams from [adamchoi](https://adamchoi.co.uk/overs/detailed) website (which is a JavaScript-based website), based on the input country name, and extracting it into CSV and JSON files.
